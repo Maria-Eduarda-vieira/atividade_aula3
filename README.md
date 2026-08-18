@@ -13,13 +13,12 @@ Docentes: Prof. Raul e Prof. Denani
 Data de Entrega: 18/08/2026
 
 👥 Integrantes do Grupo
-[Nome do Aluno 1]
+Caline Myrella Lorena Ramos
 
-[Nome do Aluno 2]
+Maria Eduarda Vieira
 
-[Nome do Aluno 3]
+Miguel Augusto Porto Coutinho
 
-[Nome do Aluno 4]
 
 🔍 Análise dos Sites
 1. Exemplo BOM ✅
