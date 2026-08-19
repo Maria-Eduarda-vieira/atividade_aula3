@@ -1,4 +1,4 @@
-🎨 Atividade: Tipografia e Cores
+🎨[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=ATIVIDADE+SOBRE+TIPOGRAFIA+E+CORES🎬+)](https://git.io/typing-svg)
 Repositório criado para a entrega da atividade prática da unidade curricular de Linguagem de Marcação do curso Técnico em Desenvolvimento de Sistemas no SENAI.
 
 📌 Sobre o Projeto
