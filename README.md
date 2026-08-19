@@ -1,7 +1,7 @@
 🎨
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=ATIVIDADE+SOBRE+TIPOGRAFIA+E+CORES🎬+)](https://git.io/typing-svg)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📌 </h2>Sobre o Projeto</h2>
+📌 --Sobre o Projeto
 -------------------------------------------------------------------------------------------------------------------
 O objetivo desta atividade é analisar a aplicação prática de conceitos de Tipografia e Cores no web design, identificando boas e más práticas de UX/UI, como contraste, hierarquia visual e harmonia de paletas. Foi solicitado a escolha de dois sites, um que possui um exemplo bom de padrão e um que não possui um padrão. Essa  atividade prática corresponde a matéria de Linguagem de Marcação no curso técnico de Desenvolvimento de Sistemas no SENAI.
 
@@ -13,8 +13,13 @@ Turma: 1D-DS
 
 ### 👥 Equipe de Desenvolvimento
 
-| [<img src="https://github.com/CalineMyrella.png" width="100px;"/><br /><sub><b>Caline Myrella Lorena Ramos</b></sub>](https://github.com/CalineMyrella) | [<img src="https://github.com/Maria-Eduarda-vieira.png" width="100px;"/><br /><sub><b>Maria Eduarda Vieira</b></sub>](https://github.com/Maria-Eduarda-vieira) | [<img src="https://github.com/CoutomgPortinho.png" width="100px;"/><br /><sub><b>Miguel Augusto Porto Coutinho</b></sub>](https://github.com/CoutomgPortinho) |
-| :---: | :---: | :---: || :---: | :---: | :---: || :---: | :---: | :---: |
+| [<img src="https://github.com/CalineMyrella.png" width="100px;"/><br /><sub><b>Caline Myrella Lorena Ramos</b></sub>](https://github.com/CalineMyrella) 
+
+| [<img src="https://github.com/Maria-Eduarda-vieira.png" width="100px;"/><br /><sub><b>Maria Eduarda Vieira</b></sub>](https://github.com/Maria-Eduarda-vieira) 
+
+| [<img src="https://github.com/CoutomgPortinho.png" width="100px;"/><br /><sub><b>Miguel Augusto Porto Coutinho</b></sub>](https://github.com/CoutomgPortinho) |
+
+| :---: | :---: | :---: || :---: | 
 
 
 🔍 Análise dos Sites
@@ -38,6 +43,8 @@ Tipografia: Fontes ilegíveis, falta de padronização nos tamanhos e poluição
 
 Cores: Baixo contraste entre o texto e a cor de fundo, dificultando a leitura e violando regras básicas de UX.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Como+nos+ajudou%3A)](https://git.io/typing-svg) 
 
-Como nos ajudou :Podemos observar na prática como funciona um site que segue as regras de tipografia e teoria das cores, assim entendendo melhor a estrutura e o design de uma página web e identificando quais são os principais erros de padronização cometidos.
+Podemos observar na prática como funciona um site que segue as regras de tipografia e teoria das cores, assim entendendo melhor a estrutura e o design de uma página web e identificando quais são os principais erros de padronização cometidos.
 
