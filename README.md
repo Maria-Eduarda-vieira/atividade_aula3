@@ -17,9 +17,9 @@ Turma: 1D-DS
 
 | [<img src="https://github.com/Maria-Eduarda-vieira.png" width="100px;"/><br /><sub><b>Maria Eduarda Vieira</b></sub>](https://github.com/Maria-Eduarda-vieira) 
 
-| [<img src="https://github.com/CoutomgPortinho.png" width="100px;"/><br /><sub><b>Miguel Augusto Porto Coutinho</b></sub>](https://github.com/CoutomgPortinho) |
+| [<img src="https://github.com/CoutomgPortinho.png" width="100px;"/><br /><sub><b>Miguel Augusto Porto Coutinho</b></sub>](https://github.com/CoutomgPortinho) 
 
-| :---: | :---: | :---: || :---: | 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 🔍 Análise dos Sites
